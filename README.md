@@ -1,5 +1,9 @@
 # LoL Ban Checker
 
+### Example
+
+![alt text](https://imgur.com/a/QJswXAD)
+
 ### Installation
 
 Install [Python](https://www.python.org/downloads/) 3.0+ to run.
