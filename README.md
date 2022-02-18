@@ -10,7 +10,7 @@ Install the dependencies.
 $ pip install requests
 ```
 
-Run it...
+Run it in a cmd...
 
 ```sh
 $ python check.py
