@@ -27,4 +27,5 @@ class macro:
 			print('[!] Invalid credentials.')
 
 if __name__ == '__main__':
-    macro().check(input('Username: '), input('Password: '))
+	macro().check(input('Username: '), input('Password: '))
+	input('Press Enter to Exit...')
